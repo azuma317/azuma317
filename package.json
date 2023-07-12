@@ -1,0 +1,21 @@
+{
+  "name": "azuma317",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Azuma317",
+  "license": "MIT",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azuma317/azuma317"
+  },
+  "scripts": {
+    "build": "node src/index.js"
+  },
+  "packageManager": "pnpm@8.6.7",
+  "dependencies": {
+    "actions-toolkit": "^6.0.1",
+    "dotenv": "^16.3.1"
+  }
+}

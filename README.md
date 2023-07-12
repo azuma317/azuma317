@@ -1,9 +1,22 @@
-### My Blog Articles
+<img width="170" height="170" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" src="https://raw.githubusercontent.com/azuma317/azuma317/main/src/images/me.jpg">  
+
+## <img width="26" height="26" src="https://raw.githubusercontent.com/azuma317/azuma317/main/src/images/wave.gif" width="27px"> Hi! I'm Azuma
+
+
 [![Blog](https://img.shields.io/website?color=2D2D2D&style=flat-square&up_message=AzumaBlog&url=https%3A%2F%2Fpages.azumax.work)](https://pages.azumax.work)
+[![GitHub followers](https://img.shields.io/github/followers/azuma317?color=333&label=Follow&logo=github&logoColor=fff&style=flat-square)](https://github.com/azuma317?tab=followers)
+[![Twitter Follow](https://img.shields.io/static/v1?message=Twitter&color=333&label=@azumax_develop&logo=twitter&logoColor=fff&style=flat-square)](https://twitter.com/azumax_develop)
+<br><br><br>
+---
 
-### Reach me on
-[![Gmail](https://img.shields.io/badge/-lifeghtcloerce5291@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lifeghtcloerce5291@gmail.com)](mailto:lifeghtcloerce5291@gmail.com) [![Twitter](https://img.shields.io/badge/-@azumax_develop-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/azumax_develop) 
-
-### States
+### 📊 Github Statistics
 ![GitHub Status](https://github-readme-stats.vercel.app/api?username=azuma317&count_private=true&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azuma317&hide=TeX&layout=compact&theme=dracula)
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+`[07/02 07:05]` <a href="https://github.com/azuma317" title="📝"><img alt="📝" src="https://github.com/azuma317/azuma317/raw/main/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [azuma317/Portfolio](https://github.com/azuma317/Portfolio)<br>`[06/22 04:37]` <a href="https://github.com/azuma317" title="⭐"><img alt="⭐" src="https://github.com/azuma317/azuma317/raw/main/src/images/icons/star.png" align="top" height="18"></a> Starred repository [serverless-stack/sst](https://github.com/serverless-stack/sst)<br>`[06/05 12:36]` <a href="https://github.com/azuma317" title="⭐"><img alt="⭐" src="https://github.com/azuma317/azuma317/raw/main/src/images/icons/star.png" align="top" height="18"></a> Starred repository [contentlayerdev/contentlayer](https://github.com/contentlayerdev/contentlayer)<br>`[06/04 08:49]` <a href="https://github.com/azuma317" title="📝"><img alt="📝" src="https://github.com/azuma317/azuma317/raw/main/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [azuma317/Portfolio](https://github.com/azuma317/Portfolio)
+<!--END_SECTION:activity-->
+
+---
