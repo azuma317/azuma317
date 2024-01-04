@@ -16,7 +16,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-`[12/20 02:08]` <a href="https://github.com/azuma317" title="⭐"><img alt="⭐" src="https://github.com/azuma317/azuma317/raw/main/src/images/icons/star.png" align="top" height="18"></a> Starred repository [kerwanp/contentlayer-source-notion](https://github.com/kerwanp/contentlayer-source-notion)<br>`[10/24 01:45]` <a href="https://github.com/azuma317" title="⭐"><img alt="⭐" src="https://github.com/azuma317/azuma317/raw/main/src/images/icons/star.png" align="top" height="18"></a> Starred repository [amitshekhariitbhu/go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture)<br>`[10/04 01:47]` <a href="https://github.com/azuma317" title="📝"><img alt="📝" src="https://github.com/azuma317/azuma317/raw/main/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [azuma317/Portfolio](https://github.com/azuma317/Portfolio)
+`[12/20 02:08]` <a href="https://github.com/azuma317" title="⭐"><img alt="⭐" src="https://github.com/azuma317/azuma317/raw/main/src/images/icons/star.png" align="top" height="18"></a> Starred repository [kerwanp/contentlayer-source-notion](https://github.com/kerwanp/contentlayer-source-notion)<br>`[10/24 01:45]` <a href="https://github.com/azuma317" title="⭐"><img alt="⭐" src="https://github.com/azuma317/azuma317/raw/main/src/images/icons/star.png" align="top" height="18"></a> Starred repository [amitshekhariitbhu/go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture)
 <!--END_SECTION:activity-->
 
 ---
