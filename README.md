@@ -1,6 +1,6 @@
 <img width="170" height="170" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" src="https://raw.githubusercontent.com/azuma317/azuma317/main/src/images/me.jpg">  
 
-## <img width="26" height="26" src="https://raw.githubusercontent.com/azuma317/azuma317/main/src/images/wave.gif" width="27px"> Hi! I'm Azuma
+<img width="26" height="26" src="https://raw.githubusercontent.com/azuma317/azuma317/main/src/images/wave.gif" width="27px"> **Hi! I'm Azuma**
 
 
 [![Blog](https://img.shields.io/website?color=2D2D2D&style=flat-square&up_message=AzumaBlog&url=https%3A%2F%2Fpages.azumax.work)](https://pages.azumax.work)
