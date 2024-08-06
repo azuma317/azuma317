@@ -16,7 +16,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-`[05/29 08:35]` <a href="https://github.com/azuma317" title="⭐"><img alt="⭐" src="https://github.com/azuma317/azuma317/raw/main/src/images/icons/star.png" align="top" height="18"></a> Starred repository [strapi/strapi](https://github.com/strapi/strapi)<br>`[05/12 23:49]` <a href="https://github.com/azuma317" title="⭐"><img alt="⭐" src="https://github.com/azuma317/azuma317/raw/main/src/images/icons/star.png" align="top" height="18"></a> Starred repository [ucan-lab/docker-laravel](https://github.com/ucan-lab/docker-laravel)<br>`[05/05 16:48]` <a href="https://github.com/azuma317" title="⭐"><img alt="⭐" src="https://github.com/azuma317/azuma317/raw/main/src/images/icons/star.png" align="top" height="18"></a> Starred repository [yusukebe/js-rpc-examples](https://github.com/yusukebe/js-rpc-examples)
+`[05/29 08:35]` <a href="https://github.com/azuma317" title="⭐"><img alt="⭐" src="https://github.com/azuma317/azuma317/raw/main/src/images/icons/star.png" align="top" height="18"></a> Starred repository [strapi/strapi](https://github.com/strapi/strapi)<br>`[05/12 23:49]` <a href="https://github.com/azuma317" title="⭐"><img alt="⭐" src="https://github.com/azuma317/azuma317/raw/main/src/images/icons/star.png" align="top" height="18"></a> Starred repository [ucan-lab/docker-laravel](https://github.com/ucan-lab/docker-laravel)
 <!--END_SECTION:activity-->
 
 ---
