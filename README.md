@@ -16,7 +16,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-`[12/09 01:54]` <a href="https://github.com/azuma317" title="⭐"><img alt="⭐" src="https://github.com/azuma317/azuma317/raw/main/src/images/icons/star.png" align="top" height="18"></a> Starred repository [takonomura/isucon14](https://github.com/takonomura/isucon14)
+`[12/31 06:34]` <a href="https://github.com/azuma317" title="📝"><img alt="📝" src="https://github.com/azuma317/azuma317/raw/main/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [azuma317/Portfolio](https://github.com/azuma317/Portfolio)<br>`[12/31 06:06]` <a href="https://github.com/azuma317" title="📂"><img alt="📂" src="https://github.com/azuma317/azuma317/raw/main/src/images/icons/create-branch.png" align="top" height="18"></a> Created branch [`old-main`](https://github.com/azuma317/Portfolio/tree/old-main) in [azuma317/Portfolio](https://github.com/azuma317/Portfolio)<br>`[12/09 01:54]` <a href="https://github.com/azuma317" title="⭐"><img alt="⭐" src="https://github.com/azuma317/azuma317/raw/main/src/images/icons/star.png" align="top" height="18"></a> Starred repository [takonomura/isucon14](https://github.com/takonomura/isucon14)
 <!--END_SECTION:activity-->
 
 ---
