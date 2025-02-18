@@ -16,7 +16,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-`[01/26 13:29]` <a href="https://github.com/azuma317" title="📝"><img alt="📝" src="https://github.com/azuma317/azuma317/raw/main/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [azuma317/Portfolio](https://github.com/azuma317/Portfolio)<br>`[01/26 13:28]` <a href="https://github.com/azuma317" title="📂"><img alt="📂" src="https://github.com/azuma317/azuma317/raw/main/src/images/icons/create-branch.png" align="top" height="18"></a> Created branch [`old-main`](https://github.com/azuma317/Portfolio/tree/old-main) in [azuma317/Portfolio](https://github.com/azuma317/Portfolio)
+`[01/26 13:29]` <a href="https://github.com/azuma317" title="📝"><img alt="📝" src="https://github.com/azuma317/azuma317/raw/main/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [azuma317/Portfolio](https://github.com/azuma317/Portfolio)
 <!--END_SECTION:activity-->
 
 ---
