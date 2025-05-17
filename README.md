@@ -16,7 +16,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-`[04/25 15:28]` <a href="https://github.com/azuma317" title="📝"><img alt="📝" src="https://github.com/azuma317/azuma317/raw/main/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [azuma317/Portfolio](https://github.com/azuma317/Portfolio)<br>`[04/17 05:24]` <a href="https://github.com/azuma317" title="❗️"><img alt="❗️" src="https://github.com/azuma317/azuma317/raw/main/src/images/icons/issue.png" align="top" height="18"></a> Opened issue [`#160`](https://github.com/terraform-aws-modules/terraform-aws-cloudfront/issues/160 'Enhancement: Allow configurable naming of origin_access_control resources using each.value[\'name\'] with fallback to each.key') in [terraform-aws-modules/terraform-aws-cloudfront](https://github.com/terraform-aws-modules/terraform-aws-cloudfront)
+`[04/25 15:28]` <a href="https://github.com/azuma317" title="📝"><img alt="📝" src="https://github.com/azuma317/azuma317/raw/main/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [azuma317/Portfolio](https://github.com/azuma317/Portfolio)
 <!--END_SECTION:activity-->
 
 ---
