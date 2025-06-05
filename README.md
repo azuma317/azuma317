@@ -16,7 +16,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-`[04/25 15:28]` <a href="https://github.com/azuma317" title="📝"><img alt="📝" src="https://github.com/azuma317/azuma317/raw/main/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [azuma317/Portfolio](https://github.com/azuma317/Portfolio)
+`[06/04 11:07]` <a href="https://github.com/azuma317" title="⭐"><img alt="⭐" src="https://github.com/azuma317/azuma317/raw/main/src/images/icons/star.png" align="top" height="18"></a> Starred repository [opencode-ai/opencode](https://github.com/opencode-ai/opencode)
 <!--END_SECTION:activity-->
 
 ---
