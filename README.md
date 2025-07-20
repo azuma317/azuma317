@@ -16,7 +16,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-`[06/30 03:38]` <a href="https://github.com/azuma317" title="⭐"><img alt="⭐" src="https://github.com/azuma317/azuma317/raw/main/src/images/icons/star.png" align="top" height="18"></a> Starred repository [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT)<br>`[06/19 15:23]` <a href="https://github.com/azuma317" title="⭐"><img alt="⭐" src="https://github.com/azuma317/azuma317/raw/main/src/images/icons/star.png" align="top" height="18"></a> Starred repository [payloadcms/payload](https://github.com/payloadcms/payload)
+`[06/30 03:38]` <a href="https://github.com/azuma317" title="⭐"><img alt="⭐" src="https://github.com/azuma317/azuma317/raw/main/src/images/icons/star.png" align="top" height="18"></a> Starred repository [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT)
 <!--END_SECTION:activity-->
 
 ---
