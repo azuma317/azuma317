@@ -13,9 +13,9 @@
   "scripts": {
     "build": "node src/index.js"
   },
-  "packageManager": "pnpm@8.6.7",
+  "packageManager": "pnpm@10.28.1",
   "dependencies": {
     "actions-toolkit": "^6.0.1",
-    "dotenv": "^16.3.1"
+    "dotenv": "^17.3.1"
   }
 }
