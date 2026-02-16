@@ -34,6 +34,20 @@ jobs:
      run: pnpm run build
      env:
       GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+   - name: 📊 Generate Stats Card
+     uses: readme-tools/github-readme-stats-action@v1
+     with:
+      card: stats
+      options: "username=azuma317&count_private=true&show_icons=true&theme=dracula"
+      path: profile/stats.svg
+      token: ${{ secrets.GH_TOKEN }}
+   - name: 📊 Generate Top Languages Card
+     uses: readme-tools/github-readme-stats-action@v1
+     with:
+      card: top-langs
+      options: "username=azuma317&hide=TeX&layout=compact&theme=dracula"
+      path: profile/top-langs.svg
+      token: ${{ secrets.GH_TOKEN }}
    - name: 🚀 Save changes
      run: |
       if [[ "$(git status --porcelain)" != "" ]]; then

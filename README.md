@@ -10,8 +10,8 @@
 ---
 
 ### 📊 Github Statistics
-![GitHub Status](https://github-readme-stats.vercel.app/api?username=azuma317&count_private=true&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azuma317&hide=TeX&layout=compact&theme=dracula)
+![GitHub Status](profile/stats.svg)
+![Top Langs](profile/top-langs.svg)
 
 ### :zap: Recent Activity
 
