@@ -7,7 +7,7 @@ export async function fetchActivities(username) {
   const capitalize = (str) => str.slice(0, 1).toUpperCase() + str.slice(1);
   const toUrlFormat = (item, branch, repoPublic) => {
     if (typeof item === "object") {
-      return Object.hasOwnProperty.call(item.payload, "issue") ? (repoPublic ? `[\`#${item.payload.issue.number}\`](https://github.com/${item.repo.name}/issues/${item.payload.issue.number} '${item.payload.issue.title.replace(/'/g, "\\'")}')` : `\`#${item.payload.issue.number}\``) : repoPublic ? `[\`#${item.payload.pull_request.number}\`](https://github.com/${item.repo.name}/pull/${item.payload.pull_request.number} '${item.payload.pull_request.title.replace(/'/g, "\\'")}')` : `\`#${item.payload.pull_request.number}\``;
+      return Object.hasOwnProperty.call(item.payload, "issue") ? (repoPublic ? `[\`#${item.payload.issue.number}\`](https://github.com/${item.repo.name}/issues/${item.payload.issue.number} '${(item.payload.issue.title ?? "").replace(/'/g, "\\'")}')` : `\`#${item.payload.issue.number}\``) : repoPublic ? `[\`#${item.payload.pull_request.number}\`](https://github.com/${item.repo.name}/pull/${item.payload.pull_request.number} '${(item.payload.pull_request.title ?? "").replace(/'/g, "\\'")}')` : `\`#${item.payload.pull_request.number}\``;
     }
     return `[${branch ? `\`${branch}\`` : item}](https://github.com/${item}${branch ? `/tree/${branch}` : ""})`;
   };
