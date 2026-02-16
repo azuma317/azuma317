@@ -11,7 +11,6 @@
 
 ### 📊 Github Statistics
 ![GitHub Status](profile/stats.svg)
-![Top Langs](profile/top-langs.svg)
 
 ### :zap: Recent Activity
 
