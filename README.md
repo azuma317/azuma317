@@ -3,7 +3,7 @@
 <img width="26" height="26" src="https://raw.githubusercontent.com/azuma317/azuma317/main/src/images/wave.gif" width="27px"> **Hi! I'm Azuma**
 
 
-[![Blog](https://img.shields.io/website?color=2D2D2D&style=flat-square&up_message=AzumaBlog&url=https%3A%2F%2Fpages.azumax.work)](https://pages.azumax.work)
+[![Blog](https://img.shields.io/website?color=2D2D2D&style=flat-square&up_message=AzumaBlog&url=https%3A%2F%2Fmax.storyie.com%2F)](https://max.storyie.com/)
 [![GitHub followers](https://img.shields.io/github/followers/azuma317?color=333&label=Follow&logo=github&logoColor=fff&style=flat-square)](https://github.com/azuma317?tab=followers)
 [![Twitter Follow](https://img.shields.io/static/v1?message=Twitter&color=333&label=@azumax_develop&logo=twitter&logoColor=fff&style=flat-square)](https://twitter.com/azumax_develop)
 <br><br><br><br>
