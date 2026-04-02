@@ -15,7 +15,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-`[02/14 22:15]` <a href="https://github.com/azuma317" title="❌"><img alt="❌" src="https://github.com/azuma317/azuma317/raw/main/src/images/icons/delete.png" align="top" height="18"></a> Deleted `fix/biome-exclude-next` from [azuma317/open-japan-politech-platform](https://github.com/azuma317/open-japan-politech-platform)<br>`[02/14 22:14]` <a href="https://github.com/azuma317" title="❌"><img alt="❌" src="https://github.com/azuma317/azuma317/raw/main/src/images/icons/delete.png" align="top" height="18"></a> Deleted `feat/pnpm-catalog-version-mana...` from [azuma317/open-japan-politech-platform](https://github.com/azuma317/open-japan-politech-platform)<br>`[02/14 22:05]` <a href="https://github.com/azuma317" title="❌"><img alt="❌" src="https://github.com/azuma317/azuma317/raw/main/src/images/icons/pr-close.png" align="top" height="18"></a> Merged PR [`#16`](https://github.com/ochyai/open-japan-politech-platform/pull/16 '') in [ochyai/open-japan-politech-platform](https://github.com/ochyai/open-japan-politech-platform)<br>`[02/14 22:05]` <a href="https://github.com/azuma317" title="❌"><img alt="❌" src="https://github.com/azuma317/azuma317/raw/main/src/images/icons/pr-close.png" align="top" height="18"></a> Merged PR [`#15`](https://github.com/ochyai/open-japan-politech-platform/pull/15 '') in [ochyai/open-japan-politech-platform](https://github.com/ochyai/open-japan-politech-platform)
+`[04/02 03:33]` <a href="https://github.com/azuma317" title="⭐"><img alt="⭐" src="https://github.com/azuma317/azuma317/raw/main/src/images/icons/star.png" align="top" height="18"></a> Starred repository [emdash-cms/emdash](https://github.com/emdash-cms/emdash)
 <!--END_SECTION:activity-->
 
 ---
