@@ -15,7 +15,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-`[04/02 03:33]` <a href="https://github.com/azuma317" title="⭐"><img alt="⭐" src="https://github.com/azuma317/azuma317/raw/main/src/images/icons/star.png" align="top" height="18"></a> Starred repository [emdash-cms/emdash](https://github.com/emdash-cms/emdash)
+`[05/06 22:51]` <a href="https://github.com/azuma317" title="🗣"><img alt="🗣" src="https://github.com/azuma317/azuma317/raw/main/src/images/icons/comment.png" align="top" height="18"></a> Commented on [`#54754`](https://github.com/anthropics/claude-code/issues/54754 '[BUG] Claude Code Desktop MacOS can\'t find git , but git is installed') in [anthropics/claude-code](https://github.com/anthropics/claude-code)
 <!--END_SECTION:activity-->
 
 ---
