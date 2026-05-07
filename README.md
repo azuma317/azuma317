@@ -15,7 +15,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-`[05/06 22:51]` <a href="https://github.com/azuma317" title="🗣"><img alt="🗣" src="https://github.com/azuma317/azuma317/raw/main/src/images/icons/comment.png" align="top" height="18"></a> Commented on [`#54754`](https://github.com/anthropics/claude-code/issues/54754 '[BUG] Claude Code Desktop MacOS can\'t find git , but git is installed') in [anthropics/claude-code](https://github.com/anthropics/claude-code)
+`[05/07 01:33]` <a href="https://github.com/azuma317" title="📝"><img alt="📝" src="https://github.com/azuma317/azuma317/raw/main/src/images/icons/commit.png" align="top" height="18"></a> Made `undefined` commits in [azuma317/open-japan-politech-platform](https://github.com/azuma317/open-japan-politech-platform)<br>`[05/07 01:33]` <a href="https://github.com/azuma317" title="📝"><img alt="📝" src="https://github.com/azuma317/azuma317/raw/main/src/images/icons/commit.png" align="top" height="18"></a> Made `undefined` commits in [azuma317/spec-kit](https://github.com/azuma317/spec-kit)<br>`[05/06 22:51]` <a href="https://github.com/azuma317" title="🗣"><img alt="🗣" src="https://github.com/azuma317/azuma317/raw/main/src/images/icons/comment.png" align="top" height="18"></a> Commented on [`#54754`](https://github.com/anthropics/claude-code/issues/54754 '[BUG] Claude Code Desktop MacOS can\'t find git , but git is installed') in [anthropics/claude-code](https://github.com/anthropics/claude-code)
 <!--END_SECTION:activity-->
 
 ---
