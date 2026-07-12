@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">azuma's GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 6, Total Commits  (last year) : 16, Total PRs: 39, Total PRs Merged: 32, Merged PRs Percentage: 82.05, Total PRs Reviewed: 0, Total Issues: 8, Contributed to (last year): 3</desc>
+        <desc id="descId">Total Stars Earned: 6, Total Commits  (last year) : 16, Total PRs: 40, Total PRs Merged: 32, Merged PRs Percentage: 80.00, Total PRs Reviewed: 0, Total Issues: 8, Contributed to (last year): 4</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 197.90948426308495;
+        stroke-dashoffset: 197.40572260919268;
       }
     }
   
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >39</text>
+      >40</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >82.05 %</text>
+      >80.00 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
@@ -267,7 +267,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >3</text>
+      >4</text>
     </g>
   </g>
     </svg>
