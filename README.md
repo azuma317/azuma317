@@ -15,7 +15,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-`[09/25 12:43]` <a href="https://github.com/azuma317" title="⭐"><img alt="⭐" src="https://github.com/azuma317/azuma317/raw/main/src/images/icons/star.png" align="top" height="18"></a> Starred repository [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
+`[10/06 02:39]` <a href="https://github.com/azuma317" title="⭐"><img alt="⭐" src="https://github.com/azuma317/azuma317/raw/main/src/images/icons/star.png" align="top" height="18"></a> Starred repository [php/frankenphp](https://github.com/php/frankenphp)<br>`[09/25 12:43]` <a href="https://github.com/azuma317" title="⭐"><img alt="⭐" src="https://github.com/azuma317/azuma317/raw/main/src/images/icons/star.png" align="top" height="18"></a> Starred repository [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
 <!--END_SECTION:activity-->
 
 ---
